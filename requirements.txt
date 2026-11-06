@@ -1,0 +1,6 @@
+mss==10.1.0
+Pillow==12.0.0
+pytesseract==0.3.13
+pynput==1.8.1
+packaging==26.3
+six==1.17.0

@@ -1,0 +1,10 @@
+{
+  "left": 100,
+  "top": 100,
+  "width": 900,
+  "height": 100,
+  "cpm": 2000,
+  "language": "eng",
+  "tesseract_cmd": "",
+  "focus_delay": 1.0
+}
